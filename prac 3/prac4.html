@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="1.css">
+	<title> </title>
+	<script type="text/javascript">
+		  function validateForm() {
+
+		  	//alert("welcome");
+	  	var fname=document.myForm.firstname.value;
+
+	  	if(fname== "" )
+	  	{
+	  		alert("Enter Valid first Name"); 
+	  	}
+	  	var sname=document.myForm.lastname.value;
+
+	  	if(sname== "")
+	  	{
+	  		alert("Enter Valid Surname"); 
+	  	}
+	  	var cno=document.myForm.cardnumber.value;
+
+	  	if(!(cno.length==16 && cno.isNumeric()))
+	  	{
+	  		alert("Enter Valid card number"); 
+	  	}
+	  	var mmyy=document.myForm.month.value;
+
+	  	if(mmyy=="")
+	  	{
+	  		alert("Enter Valid date"); 
+	  	}
+	  	var cvv=document.myForm.cvv.value;
+
+	  	if(!(cvv.length==3))
+	  	{
+	  		alert("Enter Valid cvv"); 
+	  	}
+
+	  	var ad=document.myForm.address.value;
+
+	  	if(ad="")
+	  	{
+	  		alert("Enter Valid address"); 
+	  	}
+	  	var city1=document.myForm.city.value;
+
+	  	if(city1="")
+	  	{
+	  		alert("Enter Valid address"); 
+	  	}
+	  	var zip1=document.myForm.zipcode.value;
+
+	  	if(!(zip1.length==6))
+	  	{
+	  		alert("Enter Valid zip code"); 
+	  		
+	  	}
+	  	 var emailID = document.myForm.email.value;
+         atpos = emailID.indexOf("@");
+         dotpos = emailID.lastIndexOf(".");
+         
+         if (atpos < 1 || ( dotpos - atpos < 2 )) 
+         {
+            alert("Please enter correct email ID")
+            document.myForm.EMail.focus() ;
+         }
+  } 
+
+</script>
+
+</head>
+<body>
+ <p id="p1"><div id="d0"><form name="myForm" onsubmit="return validateForm()" method="post">
+ 	<div id="d1"><p id="p1" align="center">payment information</p></div>
+ 	<br>
+ 	<input id="ip1" type="text" name="firstname" placeholder="First Name" ><input id="ip2" type="text" name="lastname" placeholder="Surname">
+ 	<input id="ip3" type="text" name="cardnumber" placeholder="Card Number">
+ 	<input id="ip4" type="text" name="month" placeholder="MM/YY"><input id="ip5" type="text" name="cvv" placeholder="CVV">
+
+ 	<div id="d3"><img id="i1" src="11.jpg" align="center"></div>
+ 	<input id="ip6" type="text" name="address" placeholder="Street Address">
+ 	<input id="ip7" type="text" name="city" placeholder="City"><input id="ip8" type="text" name="zipcode" placeholder="Zip Code">
+ 	<input id="ip9" type="text" name="email"  placeholder="Email">
+ 	<input id="ip10" type="submit" name="submit1" value="SUBMIT" >
+ </form>
+	</div>
+ </p>
+
+</body>
+</html>
+

@@ -1,0 +1,289 @@
+#d0
+{
+background-color:#E9E4E3;
+height:500px;
+width:500px;
+margin-left:480px;
+margin-top: 150px;
+margin-bottom: 200px;
+margin-right: 200px;
+
+
+}
+#d1
+{
+background-color:red;
+height:440px;
+width:300px;
+margin-left:100px;
+top: 100px;
+margin-bottom: 00px;
+margin-right: 100px;
+align-self: auto;
+border-radius: 10px;
+
+}
+#d12
+{
+background-color:transparent;
+height:120px;
+width:300px;
+margin-left:00px;
+top: 100px;
+margin-bottom: 00px;
+margin-right: 100px;
+border-radius: 10px;
+align-self: auto;
+
+
+}
+#d13
+{
+background-color:white;
+height:320px;
+width:300px;
+margin-left:00px;
+top: 100px;
+margin-bottom: 00px;
+margin-right: 100px;
+border-radius: 10px;
+border-top-left-radius: 0px;
+border-top-right-radius: 0px;
+align-self: auto;
+
+
+}
+#ip1
+{
+background-color:transparent;
+height:80px;
+width:280px;
+margin-left:00px;
+top: 100px;
+margin-bottom: 00px;
+margin-right: 100px;
+border: 0px;
+font-size:50px;
+text-align: right;
+color:#726D6C;
+font-weight:bold;
+
+
+}
+#i7{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i8{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i9{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#iplus{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i4{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i5{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i6{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#iminus{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i1{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i2{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i3{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#imul{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#i0{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#idot{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#idiv{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#ieq{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:15px;
+border-radius: 30px;
+border: 0px;
+color:#726D6C;
+font-size:30px;
+font-weight: bold;
+background-color:#E9E4E3;
+}
+#iplusminus{
+height: 50px;
+width: 50px;
+margin-left: 78px;
+margin-top:5px;
+border-radius: 30px;
+border: 0px;
+color:white;
+font-size:30px;
+font-weight: bold;
+background-color:red;
+}
+
+#clear{
+height: 50px;
+width: 50px;
+margin-left: 15px;
+margin-top:5px;
+border-radius: 30px;
+border: 0px;
+color:white;
+font-size:30px;
+font-weight: bold;
+background-color:red;
+}
